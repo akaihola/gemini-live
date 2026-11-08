@@ -1,7 +1,5 @@
 # Gemini Live Voice to Text Realtime Stream
 
-> This is a prototype developed using AI coding agents and not intended for production use.
-
 [![Run on Google Cloud Run](https://img.shields.io/badge/JavaScript-Run_in_browser-brightgreen?logo=javascript&labelColor=grey&logoColor=white)](https://live.talknicer.com)
 [![Google js-genai](https://img.shields.io/badge/Gemini_Live-js--genai_1.10-blue?logo=googlegemini&logoColor=white)](https://github.com/googleapis/js-genai)
 [![Katex LaTeX](https://img.shields.io/badge/LaTeX-marked+katex-blue?logo=latex)](https://www.npmjs.com/package/marked-katex-extension)
